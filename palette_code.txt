@@ -1,0 +1,17 @@
+private void InitializeComponent() {
+            ((System.ComponentModel.ISupportInitialize)(this.colourPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.palettePictureBox)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // PressureMap
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.ClientSize = new System.Drawing.Size(1922, 923);
+            this.Name = "PressureMap";
+            this.Text = "7777777777777777777777777-*";
+            ((System.ComponentModel.ISupportInitialize)(this.colourPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.palettePictureBox)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
